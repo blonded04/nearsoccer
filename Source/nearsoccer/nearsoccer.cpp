@@ -1,7 +1,7 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
-#include "nearsoccer.h"
+#include "Nearsoccer.h"
 #include "Modules/ModuleManager.h"
 
-IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, nearsoccer, "nearsoccer" );
+IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, Nearsoccer, "Nearsoccer" );
  

@@ -1,16 +1,16 @@
 {
-	"FileVersion": 3,
-	"EngineAssociation": "4.27",
-	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "nearsoccer",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	]
+  "Category": "",
+  "Description": "",
+  "EngineAssociation": "4.27",
+  "FileVersion": 3,
+  "Modules": [
+    {
+      "AdditionalDependencies": [
+        "Engine"
+      ],
+      "LoadingPhase": "Default",
+      "Name": "Nearsoccer",
+      "Type": "Runtime"
+    }
+  ]
 }

@@ -3,12 +3,12 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class nearsoccerEditorTarget : TargetRules
+public class NearsoccerEditorTarget : TargetRules
 {
-	public nearsoccerEditorTarget(TargetInfo Target) : base(Target)
+	public NearsoccerEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-		ExtraModuleNames.Add("nearsoccer");
+		ExtraModuleNames.Add("Nearsoccer");
 	}
 }

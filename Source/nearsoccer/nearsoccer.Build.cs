@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class nearsoccer : ModuleRules
+public class Nearsoccer : ModuleRules
 {
-	public nearsoccer(ReadOnlyTargetRules Target) : base(Target)
+	public Nearsoccer(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 
