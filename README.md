@@ -1,6 +1,6 @@
 # nearsoccer
 
-We don't store any of our code on github.
+We don't store any of our code on github, instead we're using Amazon's AWS CodeCommit.
 To download our project you should `git clone` it from this address:
 ```
 https://git-codecommit.eu-north-1.amazonaws.com/v1/repos/Nearsoccer
