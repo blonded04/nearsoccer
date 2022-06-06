@@ -1,5 +1,7 @@
 # nearsoccer
 
+*To download* `.exe` *file for Windows x64 head to releases tab.*
+
 We don't store any of our code on github, instead we're using Amazon's AWS CodeCommit.
 To download our project you should `git clone` it from this address:
 ```
