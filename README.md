@@ -8,7 +8,7 @@ You can play *Nearsoccer* not only through LAN, but also through global network 
 
 ### Getting source code and content
 
-We don't store any of our code on github, instead we're using Amazon's AWS CodeCommit.
+We don't store any of our content or blueprints on github, instead we're using Amazon's AWS CodeCommit.
 To download our project you should `git clone` it from this address:
 ```
 https://git-codecommit.eu-north-1.amazonaws.com/v1/repos/Nearsoccer
