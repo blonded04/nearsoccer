@@ -2,7 +2,7 @@
 
 ### Installation
 
-To download `.exe` file for Windows x64 head to *releases* tab.
+To download `.exe` file for Windows x64 head to *Releases* tab.
 
 You can play *Nearsoccer* not only through LAN, but also through global network via *Hamachi* :)
 
