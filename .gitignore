@@ -1,7 +1,10 @@
 Binaries
+BuiltGame
+Content
 DerivedDataCache
 Intermediate
 Saved
+.idea
 .vscode
 .vs
 *.VC.db
@@ -12,3 +15,4 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.log
