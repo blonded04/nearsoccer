@@ -1,5 +1,6 @@
 # Nearsoccer
-
+### Gameplay trailer
+[![Gameplay trailer](Images/cover.png)](https://youtu.be/RpFBthaoFMg)
 ### Installation
 
 To download `.exe` file for Windows x64 head to *Releases* tab.
